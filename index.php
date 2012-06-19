@@ -15,7 +15,7 @@
     <script type="text/javascript" src="js/agile_carousel.alpha.js"></script>
     <script type="text/javascript" src="js/haccordion.js"></script>
     <script type="text/javascript" src="js/haccordions.js"></script>   
-    <title>IRT SOFTECH S.A.S</title>
+    <title></title>
 </head>
 <body>
     <div id="wirt" class="container">

@@ -3,8 +3,15 @@
                     <img src="img/grey.png">
                 </div>
                 <div id="derechos" class="span-7 append-1">
-                    Copyright &copy; 1995 - 2011 IRT SOFTECH S.A.S
-                    Todos los derechos reservados. Compa&ntilde;&iacute;a L&iacute;der en Consultorias de Software y Hardware.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
                 </div>
                 <div id="menu" class="span-9">
                     <div class="span-2 colborder">
