@@ -37,7 +37,6 @@
         </div>
          <hr />
          <div class="span-24">
-         <font><strong></strong></font>
          <div class="clear"></div>
          <br />
          </div>

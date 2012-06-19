@@ -6,14 +6,17 @@
 	</script>
 <br/>
 <div class="prepend-1 span-22 append-1">
-    <strong>Productos de Hardware</strong>
+    <strong></strong>
     <p>
-    En la parte inferior encuentra las categorias de productos que distribuimos,
-    Adicionalmente las marcas expuestas en la primera p&aacute;gina. Si la
-    persona esta interesada en alguna de ellas por favor llenar los datos que con
-    mucho gusto se  enviara la propuesta a su correo electr&oacute;nico y si ustedes lo
-    permiten establecer una Asesor&iacute;a  atraves de un medio virtual como Skype, Messenger
-    u otro.
+		Lorem Ipsum is simply dummy text of the printing and typesetting
+		industry. Lorem Ipsum has been the industry's standard dummy text
+		ever since the 1500s, when an unknown printer took a galley of
+		type and scrambled it to make a type specimen book. It has survived
+		not only five centuries, but also the leap into electronic typesetting,
+		remaining essentially unchanged. It was popularised in the 1960s with
+		the release of Letraset sheets containing Lorem Ipsum passages,
+		and more recently with desktop publishing software like Aldus
+		PageMaker including versions of Lorem Ipsum.
     </p>
 </div>
 <div class="clear"></div>
@@ -27,26 +30,24 @@
                     </div>
                     <div class="span-8">
                         <p>
-                            Toda la linea de productos en C&aacute;maras de Video:
                         </p>
                         <img src="img/dlink_2.png"/>
-                        <p>Cotizar</p>
+                        <p></p>
                     </div>
                     
                 </div>
 		<div class="header"><img src="img/compu.png"/></div>
 		<div class="content">
                     <p>
-                    Contamos con dos lineas:
                     </p>
                     <div class="clear"></div>
                     <div class="prepend-2 span-4 colborder">
-                        <strong>Consumo</strong> 
+                        <strong></strong> 
                         <img src="img/lenovoPC.png" height="120px"/>
                         <img src="img/leno.png">
                     </div>
                     <div class="span-6">
-                        <strong>Corporativa</strong>
+                        <strong></strong>
                         <img src="img/z400.png" height="100px"/>
                         <img src="img/hp.png">
                     </div>
@@ -54,7 +55,6 @@
 		<div class="header"><img src="img/conecta.png"/></div>
 		<div class="content">
                     <p>
-                    Soluciones en conectividad para el Hogar y la Empresa
                     </p>
                     <div class="clear"></div>
                     <div class="span-5 colborder">
@@ -73,7 +73,15 @@
                 <div class="header"><img src="img/impresoras.png"/></div>
 		<div class="content">
                     <p>
-                        Tenemos para usted y su Negocio los diferentes tipos de impresoras
+		        Lorem Ipsum is simply dummy text of the printing and typesetting
+				industry. Lorem Ipsum has been the industry's standard dummy text
+				ever since the 1500s, when an unknown printer took a galley of
+				type and scrambled it to make a type specimen book. It has survived
+				not only five centuries, but also the leap into electronic typesetting,
+				remaining essentially unchanged. It was popularised in the 1960s with
+				the release of Letraset sheets containing Lorem Ipsum passages,
+				and more recently with desktop publishing software like Aldus
+				PageMaker including versions of Lorem Ipsum.
                     </p>
                     <div class="span-2 colborder">
                         <strong>Epson</strong>
@@ -107,7 +115,7 @@
                 </div>
                 <div class="header"><img src="img/lector.png"/></div>
 		<div class="content">
-                    <p>Lectoras de barras con diferentes caracteristicas</p>
+                    <p></p>
                          <div class="clear"></div><br/>
                     <div class="prepend-1 span-3 colborder">
                         <img src="img/honey.png" width="110px"/>
@@ -124,7 +132,7 @@
                 </div>
                 <div class="header"><img src="img/portatil.png"/></div>
 		<div class="content">
-                   <p>En nuestro cat&aacute;logo contamos con las mejores marcas de port&aacute;tiles</p>
+                   <p></p>
                    <div class="clear"></div><br/>
                     <div class="prepend-1 span-3 colborder">
                         <img src="img/vaio.png" width="70px"/>
@@ -146,7 +154,15 @@
                 <div class="header"><img src="img/servidor.png"/></div>
 		<div class="content">
                     <p>
-                        Asesoria y consultoria al adquirir los servidores para su Compa&ntilde;ia o Negocio
+                            Lorem Ipsum is simply dummy text of the printing and typesetting
+				industry. Lorem Ipsum has been the industry's standard dummy text
+				ever since the 1500s, when an unknown printer took a galley of
+				type and scrambled it to make a type specimen book. It has survived
+				not only five centuries, but also the leap into electronic typesetting,
+				remaining essentially unchanged. It was popularised in the 1960s with
+				the release of Letraset sheets containing Lorem Ipsum passages,
+				and more recently with desktop publishing software like Aldus
+				PageMaker including versions of Lorem Ipsum.
                     </p>
                     <div class="clear"></div><br/>
                     <div class="span-3 colborder">
@@ -161,8 +177,15 @@
                     </div>
                     <div class="span-5 last">
                          <p>
-                        IRT SOFTECH S.A.S estudia los requerimientos del cliente y busca la mejor opcion en costos
-                        y beneficios.
+                            Lorem Ipsum is simply dummy text of the printing and typesetting
+				industry. Lorem Ipsum has been the industry's standard dummy text
+				ever since the 1500s, when an unknown printer took a galley of
+				type and scrambled it to make a type specimen book. It has survived
+				not only five centuries, but also the leap into electronic typesetting,
+				remaining essentially unchanged. It was popularised in the 1960s with
+				the release of Letraset sheets containing Lorem Ipsum passages,
+				and more recently with desktop publishing software like Aldus
+				PageMaker including versions of Lorem Ipsum.
                     </p>   
                     </div>
                 </div>
@@ -170,9 +193,15 @@
 		<div class="content">
                     <div class="span-13">
                     <p>
-                        IRT SOFTECH S.A.S se preocupa por la seguridad y la disponibilidad de sus sistemas de informaci&oacute;on
-                        y cuenta con una linea amplia de productos para el respaldo de los mismos, con los sitemas UPS de los siguientes
-                        fabricantes especializados en este tipo de soluciones desde el hogar hasta el datacenter.
+                                Lorem Ipsum is simply dummy text of the printing and typesetting
+				industry. Lorem Ipsum has been the industry's standard dummy text
+				ever since the 1500s, when an unknown printer took a galley of
+				type and scrambled it to make a type specimen book. It has survived
+				not only five centuries, but also the leap into electronic typesetting,
+				remaining essentially unchanged. It was popularised in the 1960s with
+				the release of Letraset sheets containing Lorem Ipsum passages,
+				and more recently with desktop publishing software like Aldus
+				PageMaker including versions of Lorem Ipsum.
                     </p>
                     </div>
                     <div class="clear"></div><br/>

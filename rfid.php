@@ -4,50 +4,98 @@
         <strong>Inventarios de Activos Fijos Inteligente</strong>
         <div class="clear"></div><br />
         <p>
-        Ofrecemos la soluci&oacute;n
-        para realizar un Inventario de Activos Fijos Inteligente con tecnología
-        de punta que esta llegando actualmente como es el
-        Sistema de Identificaci&oacute;n por <strong>Radio Frecuencia - RFID</strong>.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        Componentes de un sistema RFID:
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Etiquetas:</strong> Identifican los bienes por un numero de serie electr&oacute;nico
-        Donde almacena la informaci&oacute;n y historia del bien. Y existen
-        dos (2) dos clases de etiquetas unas Pasivas y Otra Activa o
-        Inteligente.
+           Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of
+        type and scrambled it to make a type specimen book. It has survived
+        not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with
+        the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus
+        PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Las Etiquetas Pasivas:</strong> Son leídas por los lectores o
-        Antenas en el momento que pase por un sitio que los tengan.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Las Etiquetas Activas o Inteligentes:</strong>son aquellas etiquetas
-        Que automáticamente están Activas todo el tiempo y son
-        Ubicadas por las antenas lectores en tiempo real.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Lectores:</strong> (interrogadores) (fijados en un sitio fijo y/o hand - held
-        Permiten leer o escribir la informaci&oacute;n para la computadora de
-        Control
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Antenas:</strong> Act&uacute;an como conductos entre las Etiquetas y los Lectores
-        Administrativo del control de los bienes. Para el Servicio de Vigilancia y para
-        la Entidad que tiene un control inmediato de los bienes.    
-        </p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         <div class="clear"></div><br />
         <p>     
-        <strong>Sistemas de Colecci&oacute;n de Datos:</strong> Este nos provee de la integraci&oacute;n
-        de los datos a otros sistemas y nos lleva el control de los bienes el sitio,
-        ubicaci&oacute;n dentro de los rangos establecidos por el sistema.
+         Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of
+        type and scrambled it to make a type specimen book. It has survived
+        not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with
+        the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus
+        PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
         <p>
@@ -57,12 +105,28 @@
         </p>
         <div class="clear"></div><br />
         <p>
-        <strong>Se realiza la digitaci&oacute;n de Activos Fijos y su respectiva conciliaci&oacute;n con la parte contable</strong>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived
+                not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged. It was popularised in the 1960s with
+                the release of Letraset sheets containing Lorem Ipsum passages,
+                and more recently with desktop publishing software like Aldus
+                PageMaker including versions of Lorem Ipsum.
         </p>
         <div class="clear"></div><br />
 </div>
 <div class="span-10 last somos">
-    <strong>productos para inventarios de Activos Fijos y RFID</strong>
+    Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text
+    ever since the 1500s, when an unknown printer took a galley of
+    type and scrambled it to make a type specimen book. It has survived
+    not only five centuries, but also the leap into electronic typesetting,
+    remaining essentially unchanged. It was popularised in the 1960s with
+    the release of Letraset sheets containing Lorem Ipsum passages,
+    and more recently with desktop publishing software like Aldus
+    PageMaker including versions of Lorem Ipsum.
         <div class="clear"></div><br />
     <img src="img/banner_rfid_1.png" alt="lectores rfid fijos" />
 </div>
@@ -81,7 +145,7 @@
 
 <div class="span-10 last">
     <br />
-    <strong>Marcas autorizadas de distribuci&oacute;n</strong>
+    <strong></strong>
     <div class="clear"></div><br />
 </div>
 <div class="prepend-1 span-3"><img src="img/inter.png" width="110px" alt="distribuidor intermec" /></div>
