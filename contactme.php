@@ -1,17 +1,24 @@
 <?php include_once('analytics.php') ?>
 <br>
 <div id="contactme" class="prepend-1 span-10 colborder">
-    <strong>Formulario de Contacto IRT SOFTECH S.A.S</strong>
+    <strong>Formulario de Contacto</strong>
     <div class="clear"></div><br>
     <p>
-    Lo invitamos a que llene cada uno de los campos indicados con
-    un asterisco (*) todo esto con el fin de establecer comunicaci&oacute;n con usted.
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text
+    ever since the 1500s, when an unknown printer took a galley of
+    type and scrambled it to make a type specimen book. It has survived
+    not only five centuries, but also the leap into electronic typesetting,
+    remaining essentially unchanged. It was popularised in the 1960s with
+    the release of Letraset sheets containing Lorem Ipsum passages,
+    and more recently with desktop publishing software like Aldus
+    PageMaker including versions of Lorem Ipsum.
     </p>
     <br>
 <?php
     require_once('recaptcha/recaptchalib.php');
-    $public_key='6LeeNMkSAAAAAFR_uIvm9jDYcbTVvtIS3qrWbKXc';
-    $private_key='6LeeNMkSAAAAAJgdJ0U7OwhCB98GbcxR5XbyfGAf';
+    $public_key='';
+    $private_key='';
     $errors=array();
     $missing=array();
     $mensaje='';
@@ -111,25 +118,30 @@
     <strong>Canales de comunicaci&oacute;n para servicio al Cliente </strong>
     <div class="clear"></div><br>
     <p>
-        Fieles a nuestra decidida orientaci&oacute;n al cliente, basada en
-        la generaci&oacute;n de confianza, ponemos a su disposici&oacute;n
-        nuestros datos de comunicaci&oacute;n para atender sus
-        opiniones o solicitudes:
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of
+        type and scrambled it to make a type specimen book. It has survived
+        not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with
+        the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus
+        PageMaker including versions of Lorem Ipsum.
     </p>
     <div class="clear"></div><hr>
     C&oacute;digos QR - para contacto
     <div class="clear"></div><br>
     <div class="span-2 colborder">
-        <img src="img/qr.png" width="70px">
+        <img src="" width="70px">
         <div class="clear"></div><br><br><br>
     </div>
     <div class="span-3 colborder">
-        <img src="img/nancy_qr_p.png" height="70px">
+        <img src="" height="70px">
         <small>Gerente Comercial</small>
         <div class="clear"></div><br>
     </div>
     <div class="span-3 last">
-        <img src="img/info_qr_mp.png" height="70px">
+        <img src=" height="70px">
         <small>Informaci&oacute;n en General</small>
     </div>
     <div class="clear"></div><hr>
@@ -139,13 +151,16 @@
             <div class="clear"></div><br>
             <div class="span-7">
                 <p>
-                    Correo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:info@irt.net.co<br>
-                    Pbx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:679 3202<br>
-                    TeleFax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:674 2490<br>
-                    Celular&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:312 474 7245<br>
-                    Direcci&oacute;n&nbsp;&nbsp;&nbsp;&nbsp;:Carrera 21 # 162-43<br>
-                    Ciudad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Bogota - Colombia<br>
-                    <a href="http://maps.google.es/maps/ms?msid=208797800535590152559.0004afc742284a38d90b8&msa=0&ll=4.743653,-74.044139&spn=0.002593,0.005284">Ubicaci&oacute;n Por Google Maps</a>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an unknown printer took a galley of
+                    type and scrambled it to make a type specimen book. It has survived
+                    not only five centuries, but also the leap into electronic typesetting,
+                    remaining essentially unchanged. It was popularised in the 1960s with
+                    the release of Letraset sheets containing Lorem Ipsum passages,
+                    and more recently with desktop publishing software like Aldus
+                    PageMaker including versions of Lorem Ipsum.
+                    <a href="">Ubicaci&oacute;n Por Google Maps</a>
                 </p>
             </div>
             <div class="span-3 last">
