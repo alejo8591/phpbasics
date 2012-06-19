@@ -1,0 +1,22 @@
+Thank you for downloading Invision Power File Manager
+
+For instructions on getting started please read "index.html" in the "install guide" directory
+
+---- Updating ----
+
+Please read the relevant files in the "change logs" & "upgrading" directories
+
+---- Add-ons ----
+
+Additional add-ons such as the registration module can be downloaded from the "Resources" Section of Control Panel
+
+---- Legal Notice ----
+
+By installing Invision Power File Manager you agree not to remove, modify or "hide" the copyright notice
+You also agree not to redistribute the source code in any way, shape or form. You may modify the source code on your local installation only and you may post instructions on the Internet on how to "apply" these changes to the product, but you may not distribute the modified source code
+
+You also agree that neither Invision Power Services Inc nor Stephen Ball will be held responsible for loss of and/or corruption of data due to the use of this product. Furthermore you understand that the software is not for use in safety critical systems (systems where a fault can cause damage to persons or objects, and in extreme cases could result in loss of life)
+
+---- Have a problem? ----
+
+If you have a problem don't hesitate to post on our support forums @ http://forums.invisionpower.com

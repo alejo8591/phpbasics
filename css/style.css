@@ -1,0 +1,317 @@
+body {
+   text-align:center;
+   font-family: verdana , arial;
+   font-size:12px;
+   background:#d8dcce url(../img/b.png) repeat;
+   padding:0;
+   border:0;
+   bottom:0;
+   margin:0;
+}
+p{
+   text-align:left;
+   font-family: verdana, arial;
+   color: #fff;
+   font-size:12px;
+}
+div strong{
+   text-align:justify;
+   font-family: verdana, arial;
+   color: #A32431;
+   font-size:12px;
+}
+
+div font strong{
+   text-align:center;
+   font-family: verdana, arial;
+   color: #A32431;
+   font-size:14px;
+}
+div p{
+   text-align:justify;
+   font-family: verdana, arial;
+   color: #333;
+   font-size:12px;
+}
+.somos{
+   font-family: verdana, arial;
+   text-align:left;
+   color: #333;
+   font-size:12px;
+}
+.somos p strong{
+   font-size: 12px;
+   color: #333;
+}
+.somos strong{
+   font-size: 16px;
+   color: #A32431;
+}
+.somos a{
+   text-decoration: none;
+}
+#wirt{
+   background: #fff;
+   margin-top:0;
+   padding:0;
+   border:0;
+   bottom:0;
+}
+.tlt{
+   padding-top:18px;
+}
+.tlt strong{   
+   text-align:left;
+   font-family: verdana, arial;
+   color: #333;
+   font-size:12px;
+}
+/*Titulos largos*/
+.tltl{
+   padding-top:5px;
+   border:1px solid #A32431;
+}
+.tltl strong{   
+   text-align:left;
+   font-family: verdana, arial;
+   color: #A32431;
+   font-size:12px;
+}
+
+/* Header*/
+#hli{
+   text-align:center;
+   margin-top:12px;
+   padding:0;
+   bottom:0;
+   border:0;
+   height: 90px;
+}
+#hci{
+   text-align: center;
+   height: 90px;
+}
+#hci #tlt1{
+   color: #262262;
+   margin-top: 36px;
+   border:0;
+   padding:0;
+   font-size:18px;
+}
+#hci #tlt2{
+   color: #A32431;
+   border:0;
+   bottom: 0;
+   font-size:10px;
+}
+
+/* Image in Text Box */
+#hri{
+   text-align: center;
+   margin-top:45px;
+   height: 90px;
+}
+
+/*buscador*/
+.tb11 {
+     text-align:left;
+     background:#FFFFFF url(../img/search.png) no-repeat 1px 1px;
+     padding:2px 2px 2px 18px;
+     border:1px solid #CCCCCC;
+     width:160px;
+     height:15px;
+}
+
+#fti{
+   background: #fff;
+   margin-top:0;
+   padding:0;
+   border:0;
+   bottom:0;
+}
+
+#fti #logo{
+   margin-top:5px;
+   padding:0;
+   border:0;
+   bottom:0;
+}
+
+#fti #derechos{
+   margin-top:4px;
+   text-align: left;
+   font-family: verdana;
+   color: #8c8c8c;
+   font-size: 9px;
+}
+#fti #menu{
+   margin-top:20px;
+   text-align: left;
+   font-size: 8px;
+   color: #808080;
+}
+
+#fti #social{
+   margin-top:10px;
+   text-align: right;
+}
+
+
+/*Galeria de imagenes*/
+#gallery {
+   background: url("../img/bg.gif") repeat;
+   position:relative;
+   height:300px;
+   border: none;
+}
+	#gallery a {
+         float:left;
+         position:absolute;
+	}
+	
+	#gallery a img {
+            border:none;
+	}
+	
+	#gallery a.show {
+            z-index:200
+	}
+
+	#gallery .caption {
+            z-index:200; 
+            background-color:#000; 
+            color:#ffffff; 
+            height:40px; 
+            width:100%; 
+            position:absolute;
+            bottom:0;
+	}
+
+	#gallery .caption .content {
+            margin:5px
+	}
+	
+	#gallery .caption .content h3 {
+            margin:0;
+            padding:0;
+            color:#1DCCEF;
+}
+/*--------MENU-----#8b0000*/
+#nav {
+   text-align:center;
+   margin:0;
+   padding:0;
+   list-style-type:none;
+   background: #c0c0c0 url(../img/HOVER.png) repeat-x top left;
+   height:36px;
+   z-index:7000;
+}
+#nav li{
+   text-align:center;
+   margin:0;
+   padding-top: 10px;
+   padding-left:8px;
+   padding-right: 8px;
+   float: left;
+   position:relative;
+   width: auto;
+   font-size: 12px;
+   color: #fff;
+   list-style-type:none;
+   background:transparent url(../img/DIVIDER.gif) no-repeat top right;
+   height:30px;
+   z-index:7000; 
+}
+#nav li a{
+   text-align:center;
+   font-family: verdana, arial;
+   color: #fff;
+   font-size: 12px;
+   list-style-type:none;
+   text-decoration:none;
+   background:transparent;
+   z-index:7000;
+}
+
+.submenu{
+   text-align:left;
+   display: none;
+   position: absolute;
+   left: -20px;
+   border: none;
+   height:auto;
+   list-style-type:none;
+   color:#fff;
+   margin-top:10px;
+   padding:0;
+   z-index:7000;
+}
+#nav .submenu li{   
+   padding: 2px 2px 2px 2px;
+   float: none;
+   position: static;
+   margin-top:1px;
+   font-size: 14px;
+   border: 0.5px solid #fff;
+   background: #c0c0c0 url(../img/HOVER.png) repeat-x top left;
+   border-top:10px;
+   width: 180px;
+   color:#fff;
+   text-decoration:none;
+   z-index:7000;
+}
+#nav .submenu li a{
+   color: #fff;
+   width: 114px;
+   height: 16px;
+   text-decoration:none;
+   z-index:7000;
+}
+#haccordion_h{
+   background: url(../img/fnd_h_c.png) no-repeat;
+}
+/*ACORDEON*/
+.haccordion .header, .haccordion .content{
+      float: left;
+      height: 250px;
+      z-index:10000;
+}
+
+.haccordion .header{
+      width: 50px;
+      background: #ccc;
+      color: #fff;
+      cursor: pointer;
+      border-right:1px solid #fff;
+}
+
+.haccordion .content{
+      display: none;
+      width: 0px;
+      overflow: auto;
+      background: #fff;
+}
+
+.haccordion .content p{
+      margin: 5px;
+}
+
+/*CONTACTENOS*/
+#contactme{
+   text-align:left;
+   font-family: verdana, arial;
+   font-size:12px;
+}
+#conciencia{
+   text-align:left;
+   z-index:1000;
+}
+.listas{
+   text-align:left;
+   font-family: verdana, arial;
+   font-size:12px;
+   color:#333;
+}
+.listas strong{ 
+   color:#333;
+}

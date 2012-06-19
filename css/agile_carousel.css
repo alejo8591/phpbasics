@@ -1,0 +1,377 @@
+/* general styles */
+
+/* reset styles */
+
+.agile_carousel img {border: 0;}
+
+.agile_carousel p, .agile_carousel ul, .agile_carousel ul li {
+margin: 0;
+padding: 0;
+}
+
+/* agile carousel styles */
+
+/* -----------------------------------*/
+/*-- outer containers --*/
+/* -----------------------------------*/
+
+/*-- the most outer container rendered by JS 
+Contains .slides .slide_content_... .persistent_content and controls that have "no_control_set" --*/
+
+.agile_carousel {
+position: relative;
+overflow: hidden;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+}
+
+/*-- container for all slides only --*/
+
+.agile_carousel .slides {
+position: absolute;
+top: 0;
+left: 0;
+}
+
+/*-- individual slide --*/
+
+.agile_carousel .slide {
+float: left;
+}
+
+
+/* -----------------------------------*/
+/*-- default style for controls --*/
+/* -----------------------------------*/
+
+
+/*-- default styles for all control sets --*/
+
+.agile_carousel .control_set {
+position: absolute;
+z-index: 4000;
+}
+
+/*-- default styles for all button containers --*/
+
+.agile_carousel .button_container {
+z-index: 5000;	
+}
+
+/*-- default style for controls whose trigger type is "hover" --*/
+
+.agile_carousel .ac_hover {
+cursor:text;	
+}
+
+/*-- default style for controls which are currently selected
+such as the current slide number --*/
+
+.agile_carousel .ac_selected {
+}
+
+/*-- default style for disabled controls 
+"previous" and "next" controls may be disabled near the first/last slide --*/
+
+.agile_carousel .ac_disabled {
+}
+
+/*-- style applied to all controls --*/
+
+.slide_button {
+z-index: 5000;
+cursor: pointer;
+display: block;
+background-position: 0 0;
+background-repeat: no-repeat;
+position: relative;
+}
+
+/*-- previous button --*/
+
+.previous_button {
+}
+
+/*-- next button --*/
+
+.next_button {
+}
+
+/*-- hover previous button --*/
+
+.hover_previous_button {
+}
+
+/*-- hover next button --*/
+
+.hover_next_button {
+}
+
+/*-- numbered buttons container --*/
+
+.agile_carousel .numbered_buttons_container {
+}
+
+/*-- numbered button --*/
+
+.agile_carousel .numbered_button {
+float: left;
+}
+
+/*-- grouped numbered buttons container --*/
+
+.agile_carousel .grouped_numbered_buttons_container {
+}
+
+/*-- group numbered button --*/
+
+.agile_carousel .grouped_numbered_button {
+float: left;
+}
+
+/*-- content buttons container --*/
+
+.agile_carousel .content_buttons_container {
+}
+
+/*-- content button --*/
+
+.agile_carousel .content_button {
+}
+
+/*-- thumbnail buttons container --*/
+
+.agile_carousel .thumbnail_buttons_container {
+}
+
+/*-- thumbnail button --*/
+
+.agile_carousel .thumbnail_button {
+}
+
+
+/* -------------------------------------------- */
+/*-- "things" that are not slides or controls --*/
+/* -------------------------------------------- */
+
+.current_slide_number {
+cursor: text;
+}
+
+.slide_count {
+cursor: text;
+}
+
+/* -------------------------------------------- */
+/*-- #basic_slideshow styles --*/
+/* -------------------------------------------- */
+
+/*-- hide the captions --*/
+#basic_slideshow .caption {
+display: none;
+}
+
+
+/* -------------------------------------------- */
+/*-- #multiple_slides_visible styles --*/
+/* -------------------------------------------- */
+
+/*-- outer container --*/
+
+#multiple_slides_visible .agile_carousel {
+overflow: hidden;
+background-color: #ededeb;
+}
+
+/*-- slide container --*/
+
+#multiple_slides_visible .slides {
+margin-top: 28px;
+}
+
+/*-- individual slides --*/
+
+#multiple_slides_visible .slide_inner {
+text-align: center;	
+}
+#multiple_slides_visible .slide_inner {
+overflow: hidden;
+border-radius: 5px;
+border: 1px solid #cfcece;
+background-color: #fff;
+text-align: center;
+width: 144px;
+margin: 0 auto;
+}
+
+/*-- large photos --*/
+
+#multiple_slides_visible .photo_link {
+width: 129px;
+height: 137px;
+overflow: hidden;
+display: block;
+margin: 8px auto 4px;
+}
+#multiple_slides_visible .photo {
+height: 137px;
+}
+
+/*-- for the links beneath the photos --*/
+
+#multiple_slides_visible .caption:link, #multiple_slides_visible .caption:visited, #multiple_slides_visible .caption:hover {
+color: #fff;
+text-decoration: none;
+width: 128px;
+display: block;
+margin: 0 auto;
+padding-bottom: 3px;
+}
+#multiple_slides_visible .caption:hover {
+text-decoration: underline;
+}
+#multiple_slides_visible .persistent_content{
+position: absolute;
+top: 2px;
+left: 12px;
+font-size: 14px;
+text-shadow: 0px 1px 1px #ccc;
+color: #fff;
+}
+
+/*-- .control_set_1 - includes: .previous_next_button --*/
+
+#multiple_slides_visible .control_set_1 {
+float: right;
+position: relative;
+margin: 4px 6px 0;
+}
+#multiple_slides_visible .previous_next_button {
+width: 16px;
+height: 16px;
+overflow: hidden;
+text-indent: 1000px;
+background-color: #fff;
+border: 1px solid #cfcece;
+background-color: #fff;
+}
+#multiple_slides_visible .previous_button {
+background-position: 4px 3px;
+}
+#multiple_slides_visible .next_button {
+background-position: -44px 3px;
+}
+#multiple_slides_visible .previous_next_button:hover {
+background-color: #f7f7f7;
+}
+#multiple_slides_visible .previous_button:hover {
+background-color: #fff;
+}
+#multiple_slides_visible .next_button:hover {
+background-color: #fff;
+}
+#multiple_slides_visible .control_set_1 .ac_disabled {
+background-color: #fff;
+}
+		
+/*-- .control_set_2 - includes: group_numbered_buttons --*/
+
+#multiple_slides_visible .control_set_2 {
+float: right;
+position: relative;
+margin: 8px 0 0 0;
+}
+#multiple_slides_visible .slide_button {
+float: left;
+}
+#multiple_slides_visible .group_numbered_buttons_container {
+float: left;
+margin-right: 14px;
+}
+#multiple_slides_visible .group_numbered_button {
+color: #fff;
+padding: 0 2px;
+font-size: 12px;
+margin-right: 2px;
+background-color: #fff;
+background-position: -95px 0;
+width: 10px;
+height: 10px;
+overflow: hidden;
+text-indent: 1000px;
+background-color: transparent;
+}
+#multiple_slides_visible .group_numbered_button:hover, #multiple_slides_visible .group_numbered_buttons_container .ac_selected {
+background-color: #fff;
+}
+
+/* -------------------------------------------- */
+/*-- #flavor_3 styles --*/
+/* -------------------------------------------- */
+
+/*-- outer container --*/
+
+#flavor_3 .agile_carousel {
+overflow: hidden;
+}
+
+/*-- hide the captions --*/
+#flavor_3 .caption {
+display: none;
+}
+
+/*-- .control_set_1 - includes: content_buttons --*/
+
+#flavor_3 .control_set_1 {
+position: absolute;
+right: 0;
+top: 0;
+width: 600px;
+height: 260px;
+color: #fff;
+}
+#flavor_3 .content_button {
+width: 600px;
+height: 44px;
+}
+#flavor_3 .content_button_inner p {
+float: left;
+color: #fff;
+font-family: verdana;
+}
+#flavor_3 .content_buttons_container .ac_selected {
+background: transparent;
+background-position: -300px 0;
+}
+#flavor_3 .content_button p {
+opacity: 1;
+vertical-align: auto;
+float: left;
+padding-right: 5px;
+width: 138px;
+}
+#flavor_3 .content_button_inner {
+background-color: #777777;
+width: 189px;
+height: 43px;
+border-bottom: 1px solid #fff;
+opacity: 0.8;
+float: right;
+}
+#flavor_3 .ac_selected .content_button_inner, #flavor_3 .ac_selected .content_button_inner:hover  {
+opacity: 0.95;
+}
+#flavor_3 .content_button_inner:hover {
+opacity: 0.9;
+}
+#flavor_3 .content_button img {
+opacity: 1;
+}
+#flavor_3 .content_button .thumb {
+width: 37px;
+height: 37px;
+overflow: hidden;
+float: left;
+border: 1px solid #fff;
+margin: 3px 3px 0 3px;
+}
