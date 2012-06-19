@@ -22,19 +22,13 @@
          <hr />
         <div class="prepend-1 span-10 colborder somos">
             <a href="index.php?irt=16">
-            <h3><strong>Siif2Dbf: Utilitario para SIIF II NACIÓN</strong></h3>
+            <h3><strong></strong></h3>
             <div class="clear"></div><br />
             <p>
-                        <strong>Siif2Dbf</strong> es un <strong>Utilitario</strong> para generar nuevos reportes a partir de los
-                        infomes generados por el <strong>SIIF II NACIÓN</strong> a tablas tipo Dbf o a
-                        otros archivos tipo Excel y exportar a cualquier Base de Datos.
+                        
             </p>
             <p>
-                        tambi&eacute;n puede exportar informaci&oacute;n a nuestra aplicaci&oacute;n de presupuesto y
-                        de esta manera generar m&aacute;s de <strong>100 reportes</strong> diferentes desde reportes b&aacute;sicos como
-                        listados por Terceros hasta reportes complejos como los reportes de reservas y
-                        cuentas por pagar o pueden ser tambien reportes globales de ejecución presupuestal.
-            </p>
+                        
             </a>
             <div class="clear"></div><br />
         </div>
@@ -43,7 +37,7 @@
         </div>
          <hr />
          <div class="span-24">
-         <font><strong>Distribuidores Autorizados a nivel nacional de las siguientes marcas</strong></font>
+         <font><strong></strong></font>
          <div class="clear"></div>
          <br />
          </div>
